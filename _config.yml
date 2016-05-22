@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7832953307348797
+  lightness: 0.3938622877442236
+  rhythmicContrast: 0.8375300720596416
+  saturation: 0.7055843043348974
+cta: {}
+layout_spectrum: 0.434121
+name: Pallo.blog
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.275337
